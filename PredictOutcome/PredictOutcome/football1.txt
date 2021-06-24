@@ -1,0 +1,13 @@
+Buffalo 4 8 5 6 3 Cincinnati 7 6 6 6
+Philadelphia 7 6 7 5 8 Detroit 9 5 4 4
+New_England 8 4 5 6 8 NY_Jets 5 8 7 5
+Minnesota 6 8 6 6 8 Oakland 7 7 5 6
+Kansas_City 7 7 5 6 8 Baltimore 6 9 5 6
+Dallas 7 4 5 6 7 Miami 4 7 8 5
+Indianapolis 8 4 5 6 5 Atlanta 8 6 6 5
+Arizona 4 7 6 5 4 Carolina 7 6 6 5
+Tampa_Bay 6 7 7 7 3 NY_Giants 5 8 8 6
+LA_Chargers 7 7 5 5 2 Houston 6 8 6 5
+Seattle 6 6 7 6 8 New_Orleans 9 5 7 6
+San_Francisco 5 6 7 6 3 Pittsburgh 6 8 7 6
+Cleveland 8 5 7 7 8 LA_Rams 9 7 5 6

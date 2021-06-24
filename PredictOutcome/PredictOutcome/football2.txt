@@ -1,0 +1,14 @@
+Miss_State 5 8 6 6 8 Kansas_St 5 7 7 5
+West_Virginia 8 5 6 6 6 NC_State 6 7 6 4
+Cincinnati 5 8 7 6 4 Miami_OH 5 6 7 4
+Penn_St 6 9 8 6 9 Pitt 8 7 7 6
+Indiana 6 7 6 5 4 Ohio_St 8 7 7 8
+South_Carolina 5 8 7 7 6 Alabama 7 9 6 9
+BYU 6 6 6 5 7 USC 8 5 8 6
+UCF 8 6 5 7 5 Stanford 7 7 7 6
+Iowa_St 6 7 6 6 8 Iowa 7 7 7 7
+Michigan_St 5 9 6 6 7 Arizona_St 8 7 6 5
+Kentucky 7 6 6 7 5 Florida 7 8 7 6
+Syracuse 7 7 6 6 6 Clemson 7 8 8 8
+Purdue 8 5 6 6 5 TCU 6 7 8 6
+UCLA 7 4 5 6 6 Oklahoma 7 5 8 8

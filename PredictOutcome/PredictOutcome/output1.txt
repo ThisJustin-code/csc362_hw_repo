@@ -1,0 +1,15 @@
+Cincinnati beat Buffalo by 3
+Philadelphia beat Detroit by 10
+New_England beat NY_Jets by 3
+Minnesota beat Oakland by 6
+Kansas_City beat Baltimore by 3
+Dallas beat Miami by 7
+Atlanta beat Indianapolis by 1
+Carolina beat Arizona by 5
+Tampa_Bay beat NY_Giants by 13
+LA_Chargers beat Houston by 6
+New_Orleans beat Seattle by 1
+Pittsburgh beat San_Francisco by 10
+LA_Rams beat Cleveland by 5
+
+Of 13 games, 53.85% were won by the home team

@@ -1,0 +1,16 @@
+Miss_State beat Kansas_St by 14
+West_Virginia beat NC_State by 15
+Cincinnati beat Miami_OH by 21
+Penn_St beat Pitt by 6
+Ohio_St beat Indiana by 26
+Alabama beat South_Carolina by 31
+USC beat BYU by 3
+UCF beat Stanford by 13
+Iowa beat Iowa_St by 5
+Michigan_St beat Arizona_St by 5
+Kentucky beat Florida by 1
+Clemson beat Syracuse by 13
+Purdue beat TCU by 4
+Oklahoma beat UCLA by 10
+
+Of 14 games, 57.14% were won by the home team
